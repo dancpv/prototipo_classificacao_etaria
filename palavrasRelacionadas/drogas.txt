@@ -1,0 +1,3 @@
+anfetaminas;cannabis;cocaína;crack;heroína;narcóticos;maconha;
+drogas;droga;traficante;tráfico;álcool;alcoolismo;alcoólatra;
+cerveja;cigarro;tabaco;nicotina

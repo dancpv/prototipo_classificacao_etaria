@@ -1,0 +1,2 @@
+tortura;acidente;assassinato;suicidio;morte;estupro;homicidio;
+acidente;decapitaçao;violencia
